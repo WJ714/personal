@@ -5,6 +5,7 @@
 ### Research Interests 
 
 [Energy Imbalance Correction](/sample_page)
+<br> Eddy covariance technique based observations are in parcicular important in the terrestrial ecosystem sceince. The data are quite good in terms of the spatial and temporal coverrage. However, the data is not perfect because of a well-known energy imbalance problem that turbulent flux is often underestimated, i.e., available energy (NETRAD - G) being higher than the measured turbulent flux (H+LE). </br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,7 +18,7 @@
 
 ---
 
-### Category Name 2
+### Publications
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
