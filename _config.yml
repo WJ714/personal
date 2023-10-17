@@ -1,10 +1,8 @@
-title: John Doe # your name (or website title) here
+title: Weijie Zhang # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
+  <br>PhD candidate with Dr. Martin Jung, Dr. Jacob Nelson, and Prof. Dr. Markus Reichstein in Max Planck Institute for Biogeochemistry, and Prof. Dr. Diego Miralles in Ghent University<br>
+  <br>Working on water flux, water-carbon coupling with data from Eddy Covariance measurements and FLUXCOM, etc.<br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
