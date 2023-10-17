@@ -3,9 +3,9 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>PhD candidate in <b>Dr. Martin Jung</b>' group in <a href="https://www.bgc-jena.mpg.de/en">MPI-BGC</a>, and with <b>Prof. Dr. Diego Miralles</b> in <a href="https://www.ugent.be/bw/environment/en/research/h-cel">Ghent University</a>.<br>
   <br>Working on <b>water flux (evapotranspiration), water-carbon coupling</b> with data from Eddy Covariance measurements and FLUXCOM, etc. Currently I am dedicated to the <b>energy imbalance problem</b> in EC observations.<br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.bgc-jena.mpg.de/person/wzhang/4955530">View My MPI-BGC file</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+# google_analytics: UA-000000-0 # your Google Analytics tracking ID here
