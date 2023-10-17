@@ -2,13 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Research Interests 
 
-[Project 1 Title](/sample_page)
+[Energy Imbalance Correction](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Plant Water-Use-Efficiency](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
